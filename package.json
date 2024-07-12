@@ -1,0 +1,15 @@
+{
+  "name": "javascript-hello-word-com-express-js-projeto-pratico",
+  "version": "1.0.0",
+  "description": "Projeto prático do backend missão NodeJS e ExpressJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
